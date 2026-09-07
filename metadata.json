@@ -1,0 +1,6 @@
+{
+  "name": "EduCore School Management System",
+  "description": "A premium, modern, enterprise-grade landing page and interactive portal for school management, featuring real-time dashboards for administrators, teachers, parents, and students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
